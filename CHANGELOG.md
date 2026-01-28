@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.1](https://github.com/esc-chula/intania-oidc/compare/v0.3.0..v0.3.1) - 2026-01-28
+
+### <!-- 1 -->🐛 Bug Fixes
+
+- Docker file - ([c9b744d](https://github.com/esc-chula/intania-oidc/commit/c9b744d7c9ab43a640cf8a7c6eaeed97f46fb423))
+
 ## [0.3.0](https://github.com/esc-chula/intania-oidc/compare/v0.2.1..v0.3.0) - 2026-01-28
 
 ### <!-- 1 -->🐛 Bug Fixes
