@@ -9,7 +9,7 @@ on:
       - "v*"
 
 env:
-  IMAGE_NAME: ghcr.io/esc-chula/intania-oidc-new
+  IMAGE_NAME: ghcr.io/esc-chula/intania-oidc
 
 jobs:
   build:
