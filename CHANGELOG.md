@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.0](https://github.com/esc-chula/intania-oidc/compare/v0.2.1..v0.3.0) - 2026-01-28
+
+### <!-- 1 -->🐛 Bug Fixes
+
+- Warning on build - ([4e820aa](https://github.com/esc-chula/intania-oidc/commit/4e820aa5a17312e4a1e6c408c67bd74c597292fe))
+
+### Miscellaneous Tasks
+
+- Update repository name - ([c438e39](https://github.com/esc-chula/intania-oidc/commit/c438e3997011e1addcec2f1fa22bbd3b49d2380b))
+
+## [0.2.1](https://github.com/esc-chula/intania-oidc/compare/v0.2.0-prerelease.4..v0.2.1) - 2025-07-07
+
+### <!-- 0 -->⛰️  Features
+
+- Update shirt size options in form component - ([1bcc808](https://github.com/esc-chula/intania-oidc/commit/1bcc808a3057fc973f8b6b4078aa1894f46b9545))
+- Enhance province selection and update labels for clarity - ([8e43814](https://github.com/esc-chula/intania-oidc/commit/8e438141ff33960c35896bf3dc04344cc1a99562))
+
+### <!-- 1 -->🐛 Bug Fixes
+
+- Enforce minimum selection for current address district and reset on province change - ([abec5d6](https://github.com/esc-chula/intania-oidc/commit/abec5d6f408aaf0736453684157d0a245fe45fb5))
+- Remove locale th to fix birthDate bug - ([f7aa178](https://github.com/esc-chula/intania-oidc/commit/f7aa178fdc08e51146f59fbd9f87c6e7e2b9ed92))
+- Change address latitude and longitude to optional and remove Google Map field - ([6d1c91c](https://github.com/esc-chula/intania-oidc/commit/6d1c91c171e8bc1a672bbb24f64a2ce5c23abd25))
+
+### <!-- 5 -->🎨 Styling
+
+- Pnpm format - ([53040af](https://github.com/esc-chula/intania-oidc/commit/53040af9d684a19a2a957160097fccbaff0431a4))
+
 ## [0.2.0-prerelease.4](https://github.com/esc-chula/intania-oidc/compare/v0.2.0-prerelease.3..v0.2.0-prerelease.4) - 2025-02-08
 
 ### <!-- 1 -->🐛 Bug Fixes
